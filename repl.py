@@ -116,5 +116,10 @@ if __name__ == '__main__':
     else:
         interactive_mode()
 
-
-print('this line is doing nothing but a wasting your computer power')
+for i in range(1000,-1):
+        if i>0:
+                print('if you see this line the code is working perfectly as planned')
+                i = i - 100000
+                
+        else:
+                print('this line is doing nothing but a wasting your computer power')
