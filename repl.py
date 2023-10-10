@@ -115,3 +115,6 @@ if __name__ == '__main__':
         options[option](value)
     else:
         interactive_mode()
+
+
+print('this line is doing nothing but a wasting your computer power')
