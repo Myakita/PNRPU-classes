@@ -1,2 +1,2 @@
 # PRNPU-classes
-## Этот репозиторий предназначен для обучения в ПНИПУ и как портфолио
+## This repository is for PNRPU classes, labs and for my future portfolio
