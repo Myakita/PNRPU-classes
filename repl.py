@@ -26,7 +26,7 @@ class InteractiveShell:
                  prompt: str = PROMPT,
                  interpreter: Optional[interpret.ABCInterpreter] = None
                  ):
-        selfie.prompt = prompt
+        self.prompt = prompt
         self.interpreter = interpreter or interpret.Interpreter()
 
     def session(self, stdin=_stdin, stdout=_stdout):
