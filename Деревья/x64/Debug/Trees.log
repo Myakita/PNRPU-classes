@@ -1,0 +1,5 @@
+﻿  mainwindow.cpp
+C:\Users\Admin\source\repos\Trees\Trees\mainwindow.h(4,10): fatal  error C1083: Не удается открыть файл включение: QMainWindow: No such file or directory,
+  Trees.cpp
+C:\Users\Admin\source\repos\Trees\Trees\Trees.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: QApplication: No such file or directory,
+  Создание кода...
