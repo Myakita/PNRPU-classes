@@ -1,0 +1,15 @@
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\bin\Debug\net8.0\Лабораторная работа 5.exe
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\bin\Debug\net8.0\Лабораторная работа 5.deps.json
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\bin\Debug\net8.0\Лабораторная работа 5.runtimeconfig.json
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\bin\Debug\net8.0\Лабораторная работа 5.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\bin\Debug\net8.0\Лабораторная работа 5.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\Лабораторная работа 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\Лабораторная работа 5.AssemblyInfoInputs.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\Лабораторная работа 5.AssemblyInfo.cs
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\Лабораторная работа 5.csproj.CoreCompileInputs.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\Лабораторная работа 5.sourcelink.json
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\Лабораторная работа 5.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\refint\Лабораторная работа 5.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\Лабораторная работа 5.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\Лабораторная работа 5.genruntimeconfig.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 5\obj\Debug\net8.0\ref\Лабораторная работа 5.dll

@@ -1,0 +1,15 @@
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\bin\Debug\net8.0\Лабораторная Работа 3.exe
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\bin\Debug\net8.0\Лабораторная Работа 3.deps.json
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\bin\Debug\net8.0\Лабораторная Работа 3.runtimeconfig.json
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\bin\Debug\net8.0\Лабораторная Работа 3.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\bin\Debug\net8.0\Лабораторная Работа 3.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\Лабораторная Работа 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\Лабораторная Работа 3.AssemblyInfoInputs.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\Лабораторная Работа 3.AssemblyInfo.cs
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\Лабораторная Работа 3.csproj.CoreCompileInputs.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\Лабораторная Работа 3.sourcelink.json
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\Лабораторная Работа 3.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\refint\Лабораторная Работа 3.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\Лабораторная Работа 3.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\Лабораторная Работа 3.genruntimeconfig.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 3\obj\Debug\net8.0\ref\Лабораторная Работа 3.dll
