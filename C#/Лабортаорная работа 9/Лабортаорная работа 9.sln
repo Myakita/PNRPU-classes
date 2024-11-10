@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лабортаорная работа 9", "Лабортаорная работа 9.csproj", "{DE065931-3266-4BC8-92DD-03E23F28B37C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{3FE4A054-59F8-404A-A3E6-E02FDE167730}"
+	ProjectSection(SolutionItems) = preProject
+		Time.cs = Time.cs
+		TimeArray.cs = TimeArray.cs
+		UserInterface.cs = UserInterface.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLibrary", "..\TimeLibrary\TimeLibrary.csproj", "{E8928B1E-2E53-4638-A4B5-CB795377282D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE065931-3266-4BC8-92DD-03E23F28B37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE065931-3266-4BC8-92DD-03E23F28B37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE065931-3266-4BC8-92DD-03E23F28B37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE065931-3266-4BC8-92DD-03E23F28B37C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8928B1E-2E53-4638-A4B5-CB795377282D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8928B1E-2E53-4638-A4B5-CB795377282D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8928B1E-2E53-4638-A4B5-CB795377282D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8928B1E-2E53-4638-A4B5-CB795377282D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E04EB7B-564D-494B-98DC-74618C9E0D8E}
+	EndGlobalSection
+EndGlobal
