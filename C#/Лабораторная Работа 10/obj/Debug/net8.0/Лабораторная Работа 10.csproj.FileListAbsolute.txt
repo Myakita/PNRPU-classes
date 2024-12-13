@@ -1,0 +1,19 @@
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\bin\Debug\net8.0\Лабораторная Работа 10.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\bin\Debug\net8.0\Лабораторная Работа 10.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\bin\Debug\net8.0\ShipLibrary.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\bin\Debug\net8.0\ShipLibrary.pdb
+c:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\Лабораторная Работа 10.csproj.AssemblyReference.cache
+c:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\Лабораторная Работа 10.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\Лабораторная Работа 10.AssemblyInfoInputs.cache
+c:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\Лабораторная Работа 10.AssemblyInfo.cs
+c:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\Лабораторная Работа 10.csproj.CoreCompileInputs.cache
+c:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\Лабораторная Работа 10.sourcelink.json
+c:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\Лабораторная Работа 10.dll
+c:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\refint\Лабораторная Работа 10.dll
+c:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\Лабораторная Работа 10.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\bin\Debug\net8.0\Лабораторная Работа 10.exe
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\bin\Debug\net8.0\Лабораторная Работа 10.deps.json
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\bin\Debug\net8.0\Лабораторная Работа 10.runtimeconfig.json
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\________.2AB463C8.Up2Date
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\Лабораторная Работа 10.genruntimeconfig.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная Работа 10\obj\Debug\net8.0\ref\Лабораторная Работа 10.dll
