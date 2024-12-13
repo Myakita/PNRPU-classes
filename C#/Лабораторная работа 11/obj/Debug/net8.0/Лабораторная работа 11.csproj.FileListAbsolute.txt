@@ -1,0 +1,19 @@
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\Лабораторная работа 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\Лабораторная работа 11.AssemblyInfoInputs.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\Лабораторная работа 11.AssemblyInfo.cs
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\Лабораторная работа 11.csproj.CoreCompileInputs.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\Лабораторная работа 11.sourcelink.json
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\Лабораторная работа 11.csproj.AssemblyReference.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\bin\Debug\net8.0\Лабораторная работа 11.exe
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\bin\Debug\net8.0\Лабораторная работа 11.deps.json
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\bin\Debug\net8.0\Лабораторная работа 11.runtimeconfig.json
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\bin\Debug\net8.0\Лабораторная работа 11.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\bin\Debug\net8.0\Лабораторная работа 11.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\bin\Debug\net8.0\ShipLibrary.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\bin\Debug\net8.0\ShipLibrary.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\________.0DD365C3.Up2Date
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\Лабораторная работа 11.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\refint\Лабораторная работа 11.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\Лабораторная работа 11.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\Лабораторная работа 11.genruntimeconfig.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 11\obj\Debug\net8.0\ref\Лабораторная работа 11.dll
