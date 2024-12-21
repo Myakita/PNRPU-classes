@@ -1,5 +1,4 @@
-﻿// UserInterface.cs
-using System;
+﻿using System;
 
 public static class UserInterface
 {
@@ -27,62 +26,41 @@ public static class UserInterface
             }
         }
     }
-
-    // Уменьшает время на одну минуту
-    public static void SubtractOneMinute(Time time)
+    public static void ShowTime(Time time) 
     {
-        try
+        time.Show();
+    }
+
+    public static void PerformUnaryOperation(Time time)
+    {
+        Console.WriteLine("Применение унарной операции (--):");
+        time = --time;
+        Console.WriteLine($"Результат: {time}");
+    }
+
+    public static void PerformAdditionWithMinutes(Time time)
+    {
+        Console.Write("Введите количество минут для добавления: ");
+        if (int.TryParse(Console.ReadLine(), out int minutes))
         {
-            Console.WriteLine("Вычитание одной минуты (--):");
-            time.DecrementMinute();
+            time += minutes;
+            
             Console.WriteLine($"Результат: {time}");
         }
-        catch (Exception ex)
+        else
         {
-            Console.WriteLine($"Ошибка при вычитании минуты: {ex.Message}");
+            Console.WriteLine("Ошибка: Введите корректное значение минут.");
         }
     }
 
-    // Добавляет указанное количество минут к объекту Time
-    public static void AddMinutes(Time time)
+    public static void PerformAdditionWithTime(Time time1, Time time2)
     {
-        while (true)
-        {
-            try
-            {
-                Console.Write("Введите количество минут для добавления: ");
-                int minutes = int.Parse(Console.ReadLine() ?? throw new ArgumentException("Значение не может быть пустым."));
-
-                time.AddMinutes(minutes);
-                Console.WriteLine($"Результат добавления {minutes} минут: {time}");
-                break;
-            }
-            catch (ArgumentException ex)
-            {
-                Console.WriteLine($"Ошибка ввода: {ex.Message}. Попробуйте снова.");
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine("Ошибка: Введите корректное числовое значение.");
-            }
-        }
+        Console.WriteLine("Сложение двух временных интервалов:");
+        time1 = time1 + time2;
+        Console.WriteLine($"Результат: {time1}");
     }
 
-    // Складывает два объекта Time и изменяет первый объект на месте
-    public static void AddTimes(Time time1, Time time2)
-    {
-        try
-        {
-            time1.AddTime(time2);
-            Console.WriteLine($"Результат сложения: {time1}");
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"Ошибка при сложении времени: {ex.Message}");
-        }
-    }
 
-    // Отображает приведение типов к int и bool
     public static void DisplayConversions(Time time)
     {
         try
@@ -96,7 +74,6 @@ public static class UserInterface
         }
     }
 
-    // Создает массив объектов Time
     public static TimeArray CreateTimeArray()
     {
         while (true)
@@ -104,13 +81,32 @@ public static class UserInterface
             try
             {
                 Console.Write("Введите размер массива Time: ");
-                int size = int.Parse(Console.ReadLine() ?? throw new ArgumentException("Значение не может быть пустым."));
+                string sizeInput = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(sizeInput))
+                    throw new ArgumentException("Значение не может быть пустым.");
 
-                Console.Write("Заполнить случайными значениями? (y/n): ");
-                string input = Console.ReadLine()?.Trim().ToLower();
+                int size = int.Parse(sizeInput);
+
+                string input = "";
+                while (input != "y" && input != "n")
+                {
+                    Console.Write("Заполнить случайными значениями? (y/n): ");
+                    input = Console.ReadLine().Trim().ToLower();
+
+                    if (input != "y" && input != "n")
+                        Console.WriteLine("Ошибка: Введите 'y' для да или 'n' для нет.");
+                }
+
                 bool randomize = input == "y";
 
-                return randomize ? new TimeArray(size, randomize: true) : ManualFillTimeArray(size);
+                if (randomize)
+                {
+                    return new TimeArray(size, randomize: true);
+                }
+                else
+                {
+                    return ManualFillTimeArray(size);
+                }
             }
             catch (ArgumentException ex)
             {
@@ -123,7 +119,6 @@ public static class UserInterface
         }
     }
 
-    // Ручное заполнение массива Time
     private static TimeArray ManualFillTimeArray(int size)
     {
         TimeArray timeArray = new TimeArray(size);
@@ -135,14 +130,12 @@ public static class UserInterface
         return timeArray;
     }
 
-    // Отображает элементы массива TimeArray
     public static void DisplayTimeArray(TimeArray timeArray)
     {
         Console.WriteLine("Элементы массива Time:");
         timeArray.Print();
     }
 
-    // Находит и отображает индекс максимального элемента в массиве TimeArray
     public static void DisplayMaxIndex(TimeArray timeArray)
     {
         try

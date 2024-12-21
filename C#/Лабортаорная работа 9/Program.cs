@@ -1,5 +1,4 @@
-﻿// Program.cs
-using System;
+﻿using System;
 
 public class Program
 {
@@ -8,19 +7,20 @@ public class Program
         Console.WriteLine("Создание объекта Time:");
         Time time1 = UserInterface.CreateTime();
 
-        TimeArray timeArray = null;  // Инициализируем ссылку на массив Time для 3-й части задания
+        TimeArray timeArray = null;
         bool exit = false;
 
         while (!exit)
         {
             Console.WriteLine("\nДоступные операции:");
-            Console.WriteLine("1. Вычитание одной минуты (--)");
-            Console.WriteLine("2. Добавление минут к времени (+ с целым числом)");
-            Console.WriteLine("3. Сложение двух объектов Time (+ между Time)");
-            Console.WriteLine("4. Приведение типов (int и bool)");
-            Console.WriteLine("5. Создание массива Time");
-            Console.WriteLine("6. Просмотр элементов массива Time");
-            Console.WriteLine("7. Поиск максимального элемента массива");
+            Console.WriteLine("1. Вывод объекта времени");
+            Console.WriteLine("2. Вычитание одной минуты (--)");
+            Console.WriteLine("3. Добавление минут к времени (+ с целым числом)");
+            Console.WriteLine("4. Сложение двух объектов Time (+ между Time)");
+            Console.WriteLine("5. Приведение типов (int и bool)");
+            Console.WriteLine("6. Создание массива Time");
+            Console.WriteLine("7. Просмотр элементов массива Time");
+            Console.WriteLine("8. Поиск максимального элемента массива");
             Console.WriteLine("0. Выход");
 
             Console.Write("\nВыберите операцию (0-7): ");
@@ -44,24 +44,28 @@ public class Program
             switch (choice)
             {
                 case 1:
-                    UserInterface.SubtractOneMinute(time1);
+                    UserInterface.ShowTime(time1);
                     break;
                 case 2:
-                    UserInterface.AddMinutes(time1);
+                    UserInterface.PerformUnaryOperation(time1);
                     break;
                 case 3:
-                    Console.WriteLine("Создание второго объекта Time для сложения:");
-                    Time time2 = UserInterface.CreateTime();
-                    UserInterface.AddTimes(time1, time2);
+                    UserInterface.PerformAdditionWithMinutes(time1);
                     break;
                 case 4:
-                    UserInterface.DisplayConversions(time1);
+                    Console.WriteLine("Создание второго объекта Time для сложения:");
+                    Time time2 = UserInterface.CreateTime();
+                   
+                    UserInterface.PerformAdditionWithTime(time1, time2);
                     break;
                 case 5:
+                    UserInterface.DisplayConversions(time1);
+                    break;
+                case 6:
                     timeArray = UserInterface.CreateTimeArray();
                     Console.WriteLine("Массив Time создан.");
                     break;
-                case 6:
+                case 7:
                     if (timeArray != null)
                     {
                         UserInterface.DisplayTimeArray(timeArray);
@@ -71,7 +75,7 @@ public class Program
                         Console.WriteLine("Массив еще не создан. Пожалуйста, выберите пункт 5 для создания массива.");
                     }
                     break;
-                case 7:
+                case 8:
                     if (timeArray != null)
                     {
                         UserInterface.DisplayMaxIndex(timeArray);

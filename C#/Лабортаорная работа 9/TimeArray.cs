@@ -1,18 +1,24 @@
-﻿// TimeArray.cs
 using System;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 public class TimeArray
 {
     private Time[] arr;
 
+    public TimeArray() 
+    {
+        arr = new Time[1];
+        arr[0] = new Time(0, 0);
+    }
+
     public TimeArray(int size)
     {
-        if (size <= 0) throw new ArgumentException("Размер массива должен быть положительным.");
+        if (size <= 0)
+            throw new ArgumentException("Размер массива должен быть положительным.");
+
         arr = new Time[size];
         for (int i = 0; i < size; i++)
         {
-            arr[i] = new Time();
+            arr[i] = new Time(0, 0);
         }
     }
 
@@ -26,8 +32,11 @@ public class TimeArray
             arr[i] = new Time(rand.Next(0, 24), rand.Next(0, 60));
         }
     }
+    public Time[] ToArray()
+    {
+        return arr;
+    }
 
-    // Свойство для получения длины массива
     public int Length => arr.Length;
 
     public Time this[int index]
@@ -43,17 +52,19 @@ public class TimeArray
             arr[index] = value;
         }
     }
-
+    private bool IsGreater(Time a, Time b)
+    {
+        return a.Hours > b.Hours || (a.Hours == b.Hours && a.Minutes > b.Minutes);
+    }
     public int MaxIndex()
     {
-        if (arr.Length == 0) throw new InvalidOperationException("Массив пустой, невозможно найти максимальный элемент.");
-        if (arr.Length == 0)
-            throw new InvalidOperationException("Невозможно найти максимальный индекс в пустом массиве.");
+        if (arr.Length == 0) 
+            throw new InvalidOperationException("Массив пустой, невозможно найти максимальный элемент.");
 
         int maxIndex = 0;
         for (int i = 1; i < arr.Length; i++)
         {
-            if (arr[i].Hours * 60 + arr[i].Minutes > arr[maxIndex].Hours * 60 + arr[maxIndex].Minutes)
+            if (IsGreater(arr[i], arr[maxIndex]))
             {
                 maxIndex = i;
             }

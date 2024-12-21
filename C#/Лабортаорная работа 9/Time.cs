@@ -1,4 +1,3 @@
-﻿// Time.cs
 using System;
 
 public class Time
@@ -7,20 +6,14 @@ public class Time
     private int minutes;
     private static int objectCount = 0;
 
-    public Time(int hours = 0, int minutes = 0)
-    {
-        if (hours < 0 || minutes < 0)
-            throw new ArgumentException("Часы и минуты не могут быть отрицательными.");
-
-        Hours = hours;
-        Minutes = minutes;
-        objectCount++;
-    }
-
     public int Hours
     {
         get => hours;
-        private set => hours = Math.Max(0, value);
+        private set 
+        {
+            if (value < 0) throw new ArgumentException("Часы не могут быть отрицательными.");
+            hours = Math.Max(0, value);
+        }
     }
 
     public int Minutes
@@ -34,33 +27,49 @@ public class Time
         }
     }
 
+    public Time(int hours = 0, int minutes = 0)
+    {
+        if (hours < 0 || minutes < 0)
+            throw new ArgumentException("Часы и минуты не могут быть отрицательными.");
+            
+        Hours = hours;
+        Minutes = minutes;
+        objectCount++;
+    }
+
+   
+    public void Show()
+    {
+        Console.WriteLine($"Часы:{this.Hours} Минуты:{this.Minutes}");
+    }
     public static int ObjectCount => objectCount;
 
-    // Уменьшение времени на одну минуту
-    public void DecrementMinute()
+    public static Time operator --(Time time)
     {
-        int totalMinutes = hours * 60 + minutes - 1;
+        int totalMinutes = time.hours * 60 + time.minutes - 1;
         totalMinutes = Math.Max(0, totalMinutes);
-        Hours = totalMinutes / 60;
-        Minutes = totalMinutes % 60;
+        time.Hours = 0;
+        time.Minutes = totalMinutes;
+        return time;
     }
 
-    // Добавление минут к текущему времени
-    public void AddMinutes(int mins)
+    public static Time operator +(Time time1, int minutes)
     {
-        if (mins < 0) throw new ArgumentException("Минуты для добавления не могут быть отрицательными.");
+        time1.Minutes += minutes;
 
-        int totalMinutes = hours * 60 + minutes + mins;
-        Hours = totalMinutes / 60;
-        Minutes = totalMinutes % 60;
+        return time1;
     }
 
-    // Сложение двух объектов Time
-    public void AddTime(Time other)
+    public static Time operator +(int minutes, Time time1) 
     {
-        int totalMinutes = (hours + other.hours) * 60 + minutes + other.minutes;
-        Hours = totalMinutes / 60;
-        Minutes = totalMinutes % 60;
+        time1.Minutes += minutes;
+        return time1;
+    }
+
+    public static Time operator +(Time time1, Time time2) 
+    {
+        int totalMinutes = (time1.hours * 60 + time1.minutes) + (time2.hours * 60 + time2.minutes);
+        return new Time(totalMinutes / 60, totalMinutes % 60);
     }
 
     public static explicit operator int(Time t) => t.hours;
