@@ -1,0 +1,21 @@
+C:\Users\kiraq\source\repos\13 лаба\bin\Debug\net8.0\13 лаба.exe
+C:\Users\kiraq\source\repos\13 лаба\bin\Debug\net8.0\13 лаба.deps.json
+C:\Users\kiraq\source\repos\13 лаба\bin\Debug\net8.0\13 лаба.runtimeconfig.json
+C:\Users\kiraq\source\repos\13 лаба\bin\Debug\net8.0\13 лаба.dll
+C:\Users\kiraq\source\repos\13 лаба\bin\Debug\net8.0\13 лаба.pdb
+C:\Users\kiraq\source\repos\13 лаба\bin\Debug\net8.0\ShipLibrary.dll
+C:\Users\kiraq\source\repos\13 лаба\bin\Debug\net8.0\Лабораторная Работа 12.dll
+C:\Users\kiraq\source\repos\13 лаба\bin\Debug\net8.0\ShipLibrary.pdb
+C:\Users\kiraq\source\repos\13 лаба\bin\Debug\net8.0\Лабораторная Работа 12.pdb
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.csproj.AssemblyReference.cache
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.AssemblyInfoInputs.cache
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.AssemblyInfo.cs
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.csproj.CoreCompileInputs.cache
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.sourcelink.json
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.csproj.Up2Date
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.dll
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\refint\13 лаба.dll
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.pdb
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\13 лаба.genruntimeconfig.cache
+C:\Users\kiraq\source\repos\13 лаба\obj\Debug\net8.0\ref\13 лаба.dll

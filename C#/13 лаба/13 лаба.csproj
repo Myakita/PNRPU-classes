@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_13_лаба</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ShipLibrary">
+      <HintPath>..\..\..\Desktop\C#\ShipLibrary\bin\Debug\net8.0\ShipLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Лабораторная Работа 12">
+      <HintPath>..\..\..\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\bin\Debug\net8.0\Лабораторная Работа 12.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
