@@ -1,0 +1,21 @@
+C:\Users\kiraq\source\repos\Лабораторная работа 14\bin\Debug\net8.0\Лабораторная работа 14.exe
+C:\Users\kiraq\source\repos\Лабораторная работа 14\bin\Debug\net8.0\Лабораторная работа 14.deps.json
+C:\Users\kiraq\source\repos\Лабораторная работа 14\bin\Debug\net8.0\Лабораторная работа 14.runtimeconfig.json
+C:\Users\kiraq\source\repos\Лабораторная работа 14\bin\Debug\net8.0\Лабораторная работа 14.dll
+C:\Users\kiraq\source\repos\Лабораторная работа 14\bin\Debug\net8.0\Лабораторная работа 14.pdb
+C:\Users\kiraq\source\repos\Лабораторная работа 14\bin\Debug\net8.0\ShipLibrary.dll
+C:\Users\kiraq\source\repos\Лабораторная работа 14\bin\Debug\net8.0\Лабораторная Работа 12.dll
+C:\Users\kiraq\source\repos\Лабораторная работа 14\bin\Debug\net8.0\ShipLibrary.pdb
+C:\Users\kiraq\source\repos\Лабораторная работа 14\bin\Debug\net8.0\Лабораторная Работа 12.pdb
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\Лабораторная работа 14.csproj.AssemblyReference.cache
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\Лабораторная работа 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\Лабораторная работа 14.AssemblyInfoInputs.cache
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\Лабораторная работа 14.AssemblyInfo.cs
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\Лабораторная работа 14.csproj.CoreCompileInputs.cache
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\Лабораторная работа 14.sourcelink.json
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\________.F8D065C3.Up2Date
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\Лабораторная работа 14.dll
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\refint\Лабораторная работа 14.dll
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\Лабораторная работа 14.pdb
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\Лабораторная работа 14.genruntimeconfig.cache
+C:\Users\kiraq\source\repos\Лабораторная работа 14\obj\Debug\net8.0\ref\Лабораторная работа 14.dll
