@@ -1,0 +1,19 @@
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\bin\Debug\net8.0\Лабораторная Работа 12.exe
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\bin\Debug\net8.0\Лабораторная Работа 12.deps.json
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\bin\Debug\net8.0\Лабораторная Работа 12.runtimeconfig.json
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\bin\Debug\net8.0\Лабораторная Работа 12.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\bin\Debug\net8.0\Лабораторная Работа 12.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\bin\Debug\net8.0\ShipLibrary.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\bin\Debug\net8.0\ShipLibrary.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\Лабораторная Работа 12.csproj.AssemblyReference.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\Лабораторная Работа 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\Лабораторная Работа 12.AssemblyInfoInputs.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\Лабораторная Работа 12.AssemblyInfo.cs
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\Лабораторная Работа 12.csproj.CoreCompileInputs.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\Лабораторная Работа 12.sourcelink.json
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\________.22B663C8.Up2Date
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\Лабораторная Работа 12.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\refint\Лабораторная Работа 12.dll
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\Лабораторная Работа 12.pdb
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\Лабораторная Работа 12.genruntimeconfig.cache
+C:\Users\kiraq\Desktop\C#\Лабораторная работа 12\Лабораторная Работа 12\obj\Debug\net8.0\ref\Лабораторная Работа 12.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Лабораторная Работа 12/1.0.0": {
+        "dependencies": {
+          "ShipLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Лабораторная Работа 12.dll": {}
+        }
+      },
+      "ShipLibrary/1.0.0": {
+        "runtime": {
+          "ShipLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Лабораторная Работа 12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShipLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
