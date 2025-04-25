@@ -1,0 +1,10 @@
+C:\Users\kiraq\Desktop\C#\Лаба 15\bin\Debug\Лаба 15.exe.config
+C:\Users\kiraq\Desktop\C#\Лаба 15\bin\Debug\Лаба 15.exe
+C:\Users\kiraq\Desktop\C#\Лаба 15\bin\Debug\Лаба 15.pdb
+C:\Users\kiraq\Desktop\C#\Лаба 15\obj\Debug\Лаба 15.csproj.AssemblyReference.cache
+C:\Users\kiraq\Desktop\C#\Лаба 15\obj\Debug\Лаба_15.Form1.resources
+C:\Users\kiraq\Desktop\C#\Лаба 15\obj\Debug\Лаба_15.Properties.Resources.resources
+C:\Users\kiraq\Desktop\C#\Лаба 15\obj\Debug\Лаба 15.csproj.GenerateResource.cache
+C:\Users\kiraq\Desktop\C#\Лаба 15\obj\Debug\Лаба 15.csproj.CoreCompileInputs.cache
+C:\Users\kiraq\Desktop\C#\Лаба 15\obj\Debug\Лаба 15.exe
+C:\Users\kiraq\Desktop\C#\Лаба 15\obj\Debug\Лаба 15.pdb
