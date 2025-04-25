@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShipHashTable Count="10">
+  <Entry>
+    <Key>корабль3</Key>
+    <Value Type="Sailboat">
+      <Name>корабль3</Name>
+      <Displacement>4241</Displacement>
+      <SailArea>197</SailArea>
+    </Value>
+  </Entry>
+  <Entry>
+    <Key>корабль2</Key>
+    <Value Type="Steamship">
+      <Name>корабль2</Name>
+      <Displacement>1440</Displacement>
+      <EnginePower>1843</EnginePower>
+    </Value>
+  </Entry>
+  <Entry>
+    <Key>корабль5</Key>
+    <Value Type="Corvette">
+      <Name>корабль5</Name>
+      <Displacement>4709</Displacement>
+      <CrewSize>277</CrewSize>
+    </Value>
+  </Entry>
+  <Entry>
+    <Key>корабль1</Key>
+    <Value Type="Steamship">
+      <Name>корабль1</Name>
+      <Displacement>6677</Displacement>
+      <EnginePower>105</EnginePower>
+    </Value>
+  </Entry>
+  <Entry>
+    <Key>корабль8</Key>
+    <Value Type="Sailboat">
+      <Name>корабль8</Name>
+      <Displacement>7318</Displacement>
+      <SailArea>42</SailArea>
+    </Value>
+  </Entry>
+  <Entry>
+    <Key>корабль9</Key>
+    <Value Type="Corvette">
+      <Name>корабль9</Name>
+      <Displacement>6759</Displacement>
+      <CrewSize>142</CrewSize>
+    </Value>
+  </Entry>
+  <Entry>
+    <Key>корабль10</Key>
+    <Value Type="Steamship">
+      <Name>корабль10</Name>
+      <Displacement>1700</Displacement>
+      <EnginePower>664</EnginePower>
+    </Value>
+  </Entry>
+  <Entry>
+    <Key>корабль4</Key>
+    <Value Type="Sailboat">
+      <Name>корабль4</Name>
+      <Displacement>993</Displacement>
+      <SailArea>72</SailArea>
+    </Value>
+  </Entry>
+  <Entry>
+    <Key>корабль6</Key>
+    <Value Type="Steamship">
+      <Name>корабль6</Name>
+      <Displacement>6569</Displacement>
+      <EnginePower>657</EnginePower>
+    </Value>
+  </Entry>
+  <Entry>
+    <Key>корабль7</Key>
+    <Value Type="Steamship">
+      <Name>корабль7</Name>
+      <Displacement>7231</Displacement>
+      <EnginePower>1956</EnginePower>
+    </Value>
+  </Entry>
+</ShipHashTable>

@@ -1,0 +1,112 @@
+{
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C7": {
+    "$type": "sailboat",
+    "SailArea": 17,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C7",
+      "Displacement": 7140
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C7",
+    "Displacement": 7140
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C2": {
+    "$type": "corvette",
+    "CrewSize": 136,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C2",
+      "Displacement": 7601
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C2",
+    "Displacement": 7601
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C4": {
+    "$type": "corvette",
+    "CrewSize": 114,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C4",
+      "Displacement": 1396
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C4",
+    "Displacement": 1396
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C5": {
+    "$type": "sailboat",
+    "SailArea": 50,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C5",
+      "Displacement": 5180
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C5",
+    "Displacement": 5180
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C1": {
+    "$type": "sailboat",
+    "SailArea": 25,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C1",
+      "Displacement": 1376
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C1",
+    "Displacement": 1376
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C8": {
+    "$type": "sailboat",
+    "SailArea": 136,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C8",
+      "Displacement": 7125
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C8",
+    "Displacement": 7125
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C9": {
+    "$type": "sailboat",
+    "SailArea": 171,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C9",
+      "Displacement": 5187
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C9",
+    "Displacement": 5187
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C10": {
+    "$type": "corvette",
+    "CrewSize": 101,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C10",
+      "Displacement": 2023
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C10",
+    "Displacement": 2023
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C3": {
+    "$type": "sailboat",
+    "SailArea": 150,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C3",
+      "Displacement": 4392
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C3",
+    "Displacement": 4392
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C6": {
+    "$type": "corvette",
+    "CrewSize": 77,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C6",
+      "Displacement": 1893
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C6",
+    "Displacement": 1893
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_64_1": {
+    "$type": "steamship",
+    "EnginePower": 1124,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_64",
+      "Displacement": 5876
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_64",
+    "Displacement": 5876
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_8_6": {
+    "$type": "corvette",
+    "CrewSize": 206,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_8",
+      "Displacement": 2679
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_8",
+    "Displacement": 2679
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_17_3": {
+    "$type": "sailboat",
+    "SailArea": 79,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_17",
+      "Displacement": 6011
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_17",
+    "Displacement": 6011
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_4_7": {
+    "$type": "steamship",
+    "EnginePower": 1198,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_4",
+      "Displacement": 1030
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_4",
+    "Displacement": 1030
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_43_4": {
+    "$type": "sailboat",
+    "SailArea": 158,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_43",
+      "Displacement": 1368
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_43",
+    "Displacement": 1368
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_8_5": {
+    "$type": "corvette",
+    "CrewSize": 84,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_8",
+      "Displacement": 1413
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_8",
+    "Displacement": 1413
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_74_8": {
+    "$type": "steamship",
+    "EnginePower": 1107,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_74",
+      "Displacement": 3969
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_74",
+    "Displacement": 3969
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_31_2": {
+    "$type": "steamship",
+    "EnginePower": 178,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_31",
+      "Displacement": 6925
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_31",
+    "Displacement": 6925
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_48_9": {
+    "$type": "steamship",
+    "EnginePower": 333,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_48",
+      "Displacement": 4628
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_48",
+    "Displacement": 4628
+  },
+  "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_36_0": {
+    "$type": "corvette",
+    "CrewSize": 162,
+    "BaseShip": {
+      "$type": "ship",
+      "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_36",
+      "Displacement": 5338
+    },
+    "Name": "\u043A\u043E\u0440\u0430\u0431\u043B\u044C_36",
+    "Displacement": 5338
+  }
+}

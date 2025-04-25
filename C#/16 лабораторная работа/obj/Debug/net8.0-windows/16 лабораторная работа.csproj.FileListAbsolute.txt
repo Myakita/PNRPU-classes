@@ -1,0 +1,17 @@
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\bin\Debug\net8.0-windows\16 лабораторная работа.exe
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\bin\Debug\net8.0-windows\16 лабораторная работа.deps.json
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\bin\Debug\net8.0-windows\16 лабораторная работа.runtimeconfig.json
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\bin\Debug\net8.0-windows\16 лабораторная работа.dll
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\bin\Debug\net8.0-windows\16 лабораторная работа.pdb
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\_16_лабораторная_работа.Form1.resources
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\16 лабораторная работа.csproj.GenerateResource.cache
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\16 лабораторная работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\16 лабораторная работа.AssemblyInfoInputs.cache
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\16 лабораторная работа.AssemblyInfo.cs
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\16 лабораторная работа.csproj.CoreCompileInputs.cache
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\16 лабораторная работа.sourcelink.json
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\16 лабораторная работа.dll
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\refint\16 лабораторная работа.dll
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\16 лабораторная работа.pdb
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\16 лабораторная работа.genruntimeconfig.cache
+C:\Users\kiraq\Desktop\C#\16 лабораторная работа\obj\Debug\net8.0-windows\ref\16 лабораторная работа.dll
